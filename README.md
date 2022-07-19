@@ -2,7 +2,6 @@
 - 👀 I’m a Web Developer and Digital Marketer.
 - 😀 I do create websites for my clients
 - 🌱 I’m currently working on my Startup based on AI.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... You can reach me on my website - www.divakarsingh.com
 
 <!---
